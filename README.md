@@ -18,6 +18,25 @@ Before you open source your project, consider the effort required to maintain it
 
 #### Who owns the code I contribute to open source projects?
 
+#### What is the purpose of this repository?
+This repository will provide you with guidance on how to contribute to open source projects.
+
+#### Who should someone contact if they have questions?
+Please contact the repository manager @natnew
+
+#### How should someone make contact if they have questions?
+You should make contact by openening an issue in this repository 
+
+#### What are the first steps to getting started open sourcing a project?
+The first steps in getting started with open source projects is to read the contents of this repository. Once you understand the guidelines, you should seek more advice from your colleagues who have contributed to open source in the past. 
+
+#### How does this repository relate to other projects and business goals?
+This repository will provide you with guidance on how to contribute to open source projects.
+
+#### Important Files
+Code of Conduct https://github.com/natnew/oss-enterprise/blob/main/CODE_OF_CONDUCT.md
+Contributing https://github.com/natnew/oss-enterprise/blob/main/CONTRIBUTING.md
+
 ## License
 
 This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc.
